@@ -1,0 +1,11 @@
+C:\Users\uren\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\uren\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\uren\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.Form2.resources
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\uren\source\repos\HW2\HW2\obj\Debug\HW2.pdb
